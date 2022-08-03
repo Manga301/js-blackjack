@@ -1,2 +1,2 @@
 # js-blackjack
-Created with CodeSandbox
+Blackjack with javascript
