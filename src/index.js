@@ -1,4 +1,3 @@
-import "./styles.css";
 
 let cards = [];
 let sum = 0;
